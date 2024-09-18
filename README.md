@@ -61,6 +61,7 @@ Once you run the program, you can interact with the system using the provided me
 
 ## Sample Output
 
+```
 1. View all books
 2. Add book to cart
 3. Remove book from cart
@@ -72,6 +73,7 @@ ISBN       Title                         Author              Price    Quantity
 --------------------------------------------------------------------------------
 ISBN123    Book 1                        Author 1            19.99        10
 ISBN456    Book 2                        Author 2            24.99         5
+```
 
 ## Customization
 You can easily extend the system by:
